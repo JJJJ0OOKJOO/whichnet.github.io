@@ -1,0 +1,13 @@
+<!DOCTYP html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>标题</title> <!--网址中转站-->
+</head>
+<body>
+<h1>标题</h1> <!--网址中转站-->
+<p>文本</p>
+<br> <!--换行-->
+<pre>这里有您经常使用的网址，点击跳转吧。</pre>
+  </body>
+</html>
